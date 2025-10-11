@@ -39,7 +39,7 @@ Together, they form the foundation of your analytical and problem-solving mindse
 
 > 💡 **Quick Challenge:**  
 > If a price increases by 25% and then decreases by 25%, is the final price the same?  
-> **Hint:** Try $100 — you’ll end up with $93.75, not $100!
+> **Hint:** Try $100 - you’ll end up with $93.75, not $100!
 
 ---
 
