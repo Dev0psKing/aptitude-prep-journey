@@ -48,11 +48,11 @@ Together, they form the foundation of your analytical and problem-solving mindse
 
 - **What it tests:** Pattern recognition, deduction, and analytical decision-making  
 - **Why it matters:** Used extensively in **TCS, Infosys**, and CAT’s **DILR** section  
-- **Pro Tip:** Most puzzles reuse the *same 5–7 logic structures* — learn to spot them!  
+- **Pro Tip:** Most puzzles reuse the *same 5-7 logic structures* - learn to spot them!  
 
 > 💡 **Quick Challenge:**  
 > If all X are Y, and some Y are Z, does that mean some X are Z?  
-> ❌ **No!** — and 60% of people get this wrong.
+> ❌ **No!** - and 60% of people get this wrong.
 
 ---
 
@@ -60,8 +60,8 @@ Together, they form the foundation of your analytical and problem-solving mindse
 **Verbal ability** assesses your **command of language**, comprehension, and expression.
 
 - **What it tests:** Grammar, vocabulary, reading comprehension, and verbal logic  
-- **Why it matters:** Highly weighted in **CAT, GRE, and GMAT** — slow readers lose marks  
-- **Pro Tip:** Focus on *context*, not just memorizing definitions  
+- **Why it matters:** Highly weighted in **CAT, GRE, and GMAT** - slow readers lose marks  
+- **Pro Tip:** Focus on *context*, not just memorising definitions  
 
 > 💡 **Quick Challenge:**  
 > Is this sentence correct?  
