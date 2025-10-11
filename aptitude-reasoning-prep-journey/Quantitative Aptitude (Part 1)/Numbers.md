@@ -1,4 +1,4 @@
-# 🔢 Numbers — Foundation of Quantitative Aptitude
+# 🔢 Numbers - Foundation of Quantitative Aptitude
 
 Numbers are the **building blocks of mathematics** — every calculation, equation, and logical expression is derived from them.  
 In this module, we’ll explore **types of numbers**, **divisibility rules**, **remainders**, **cyclicity**, and more — essential for aptitude and reasoning mastery.
