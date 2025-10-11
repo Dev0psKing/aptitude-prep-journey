@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-# 🧠 Uwabor Collins Aptitude & Reasoning Mastery  
+# 🧠 Uwabor Collins Aptitude & Reasoning Mastery. 
 ### *9-Week Journey to Sharpen Logic, Speed, and Analytical Precision*
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/aptitude-reasoning-geeksforgeeks?color=blue&label=Repo%20Size&style=flat-square)
