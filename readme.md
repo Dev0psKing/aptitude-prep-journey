@@ -1,11 +1,16 @@
 <!-- HEADER -->
 <div align="center">
 
-# 🧠 Uwabor Collins Aptitude & Reasoning Mastery. 
-### *9-Week Journey to Sharpen Logic, Speed, and Analytical Precision*
+<h1 align="center">
+🧠 <span style="background: linear-gradient(to right, #007CF0, #00DFD8); -webkit-background-clip: text; color: transparent;">Collins Uwabor Aptitude & Reasoning Mastery</span>
+</h1>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/aptitude-reasoning-geeksforgeeks?color=blue&label=Repo%20Size&style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/aptitude-reasoning-geeksforgeeks?color=brightgreen&style=flat-square)
+<h3 align="center">
+✨ A 9-Week Journey to Sharpen Logic, Speed, and Analytical Precision ✨
+</h3>
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Dev0psKing/aptitude-prep-journey?color=blue&label=Repo%20Size&style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Dev0psKing/aptitude-prep-journey?color=brightgreen&style=flat-square)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -14,127 +19,144 @@
 ---
 
 ## 📘 **Course Overview**
+> <span style="color:#0a84ff">“Mastering reasoning isn’t just about formulas — it’s about clarity, logic, and time-driven precision.”</span>
 
 This **9-week aptitude and reasoning program** combines theoretical concepts, practical problem-solving, and quizzes to develop deep competence in **quantitative aptitude, logical reasoning, and verbal ability**.
 
-Participants learn how to:
-- Tackle complex problems strategically  
-- Improve time management  
-- Enhance logical and analytical reasoning  
-- Apply quantitative logic in real-world, academic, and professional settings  
-
-By the end, learners will be **exam-ready, confident, and capable of analytical excellence**.
+By the end, learners will be **exam-ready, confident, and capable of analytical excellence** — ready for data-driven, consulting, or operations roles.
 
 ---
 
 ## 🚀 **Course Highlights**
 
-✅ Master quantitative aptitude with fast-calculation techniques  
-✅ Strengthen logical reasoning and pattern recognition  
-✅ Enhance comprehension, vocabulary, and structuring skills  
-✅ Solve real-world data interpretation and case problems  
-✅ Boost confidence through mock tests and timed practice  
-✅ Apply reasoning skills to competitive exams and business cases  
-✅ Learn **time-bound strategies** to optimize performance under pressure  
+🌟 Master quantitative aptitude with fast-calculation techniques  
+🧩 Strengthen logical reasoning and pattern recognition  
+🗣️ Enhance comprehension, vocabulary, and grammar structure  
+📊 Solve real-world data interpretation and case studies  
+⚡ Boost confidence with mock tests and timed practice  
+🎯 Learn time-bound strategies to optimize performance under pressure  
+
+---
+
+<div align="center">
+  
+🎓 **"Learn • Solve • Reflect • Apply"**
+
+</div>
+
+---
+
+## 📚 **Table of Contents**
+<details>
+<summary>📖 Click to expand</summary>
+
+- [Quantitative Aptitude (Part 1)](#01-quantitative-aptitude-part-1)  
+- [Quantitative Aptitude (Part 2)](#02-quantitative-aptitude-part-2)  
+- [Quantitative Aptitude (Part 3)](#03-quantitative-aptitude-part-3)  
+- [Quantitative Aptitude (Part 4)](#04-quantitative-aptitude-part-4)  
+- [Logical Reasoning (Part 1)](#05-logical-reasoning-part-1)  
+- [Logical Reasoning (Part 2)](#06-logical-reasoning-part-2)  
+- [Logical Reasoning (Part 3)](#07-logical-reasoning-part-3)  
+- [Verbal Ability (Part 1)](#08-verbal-ability-part-1)  
+- [Verbal Ability (Part 2)](#09-verbal-ability-part-2)  
+- [Learning Goals](#-learning-goals)  
+- [Progress Tracker](#-progress-tracker)  
+- [Tools & Techniques](#-tools--techniques)  
+- [Personal Reflections](#-personal-reflections)  
+- [References](#-references)  
+
+</details>
 
 ---
 
 ## 🧩 **Course Content**
 
-### **01. Quantitative Aptitude (Part 1)**
-- Number systems, divisibility, and properties  
-- LCM & HCF applications  
-- Percentage increase/decrease problems  
-- Ratios, proportions, and variations  
-- Cost price, selling price, profit & loss  
-- Mean and weighted averages  
-- Age-based logical problems  
-📘 *Practice:* Timed quizzes and problem sets  
+### **01. Quantitative Aptitude (Part 1)**  
+📗 Number systems, divisibility & properties  
+📗 LCM & HCF in real problems  
+📗 Percentage change & ratio-proportion logic  
+📗 Cost price, profit/loss, mean & weighted averages  
+📗 Age-based logical patterns  
+🕐 *Practice:* Timed quizzes & drills  
 
 ---
 
-### **02. Quantitative Aptitude (Part 2)**
-- Simple & compound interest  
-- Mixtures and alligation  
-- Work efficiency and wages  
-- Pipes and cisterns  
-- Speed, distance, and relative motion  
-- Boats & streams (upstream/downstream)  
-📘 *Practice:* Exercises and mock drills  
+### **02. Quantitative Aptitude (Part 2)**  
+📘 Simple & Compound Interest  
+📘 Mixtures and Alligation  
+📘 Work efficiency & wages  
+📘 Pipes & cistern problems  
+📘 Speed, distance, time, and motion  
+📘 Boats & streams  
+🕐 *Practice:* Mock drills & application sets  
 
 ---
 
-### **03. Quantitative Aptitude (Part 3)**
-- Race and relative speed problems  
-- Linear & quadratic equations  
-- Basic trigonometry (height & distance)  
-- 2D Geometry (area, perimeter)  
-- 3D Geometry (volume, surface area)  
-- Lines, angles, and polygons  
-- Arrangements & selections  
-📘 *Practice:* Timed quizzes and tests  
+### **03. Quantitative Aptitude (Part 3)**  
+📙 Races & relative speed  
+📙 Linear & quadratic equations  
+📙 Basic trigonometry  
+📙 Geometry & mensuration (2D & 3D)  
+📙 Lines, angles, arrangements, selections  
+🕐 *Practice:* Timed challenge sets  
 
 ---
 
-### **04. Quantitative Aptitude (Part 4)**
-- Probability fundamentals  
-- Clock & angle problems  
-- Arithmetic & geometric progressions  
-- Logarithms and simplifications  
-- Data interpretation (tables, graphs, caselets)  
-📘 *Practice:* Data sets and mock analysis  
-🧾 *Final Quantitative Test:* Full coverage  
+### **04. Quantitative Aptitude (Part 4)**  
+📗 Probability  
+📗 Clocks & calendars  
+📗 Arithmetic/Geometric Progression  
+📗 Logarithms & simplifications  
+📗 Data Interpretation — graphs, tables, caselets  
+🧾 *Comprehensive Test:* Quantitative full-scope review  
 
 ---
 
-### **05. Logical Reasoning (Part 1)**
-- Coding-decoding with letters and numbers  
-- Calendar & day-based problems  
-- Sequence and pattern recognition  
-- Odd one out in sets  
-- Verbal and non-verbal analogies  
-- Logical puzzles & critical thinking  
-📘 *Practice:* Timed reasoning sets  
+### **05. Logical Reasoning (Part 1)**  
+🧩 Coding-decoding (letters/numbers)  
+🧩 Calendar problems  
+🧩 Sequence & pattern identification  
+🧩 Odd one out & analogy  
+🧩 Logical puzzles  
+🕐 *Practice:* Timed reasoning sets  
 
 ---
 
-### **06. Logical Reasoning (Part 2)**
-- Course of action analysis  
-- Drawing conclusions from statements  
-- Argument evaluation and theme identification  
-- Family tree & relationship reasoning  
-- Direction sense & spatial logic  
-- Deductive reasoning & syllogisms  
-📘 *Practice:* Reasoning challenges  
+### **06. Logical Reasoning (Part 2)**  
+🧠 Logical course of action  
+🧠 Drawing valid conclusions  
+🧠 Argument evaluation  
+🧠 Family tree & direction sense  
+🧠 Deductive reasoning & syllogisms  
+🕐 *Practice:* Reasoning challenge sets  
 
 ---
 
-### **07. Logical Reasoning (Part 3)**
-- Letter & number sequences  
-- Dice and cube-based logic  
-- Underlying assumptions and inferences  
-- Venn diagram problems  
-- Scenario-based decision making  
-- Artificial language decoding  
-🧾 *Comprehensive Logical Reasoning Test*  
+### **07. Logical Reasoning (Part 3)**  
+🔹 Letter & number sequences  
+🔹 Dice & cube logic  
+🔹 Underlying assumptions  
+🔹 Venn diagrams  
+🔹 Decision-making & artificial language  
+🧾 *Mock Test:* Comprehensive reasoning review  
 
 ---
 
-### **08. Verbal Ability (Part 1)**
-- Articles, adjectives, and prepositions  
-- Vocabulary (synonyms, antonyms)  
-- Sentence correction and rearrangement  
-- Grammar, spelling, and analogy problems  
-📘 *Practice:* Timed quizzes and exercises  
+### **08. Verbal Ability (Part 1)**  
+💬 Articles, adjectives & prepositions  
+💬 Vocabulary building  
+💬 Grammar correction & sentence structure  
+💬 Analogy and rearrangement tasks  
+🕐 *Practice:* Timed quizzes  
 
 ---
 
-### **09. Verbal Ability (Part 2)**
-- Idiomatic expressions and phrasal verbs  
-- Sentence and paragraph structuring  
-- Voice (active/passive) and speech conversions  
-- Reading comprehension and fill-in-the-blanks  
-🧾 *Final Verbal Test:* Full-course analysis  
+### **09. Verbal Ability (Part 2)**  
+🗣️ Idioms & expressions  
+🗣️ Sentence & paragraph structuring  
+🗣️ Voice & speech conversions  
+🗣️ Reading comprehension  
+🧾 *Final Verbal Test:* Full assessment  
 
 ---
 
@@ -142,11 +164,11 @@ By the end, learners will be **exam-ready, confident, and capable of analytical 
 
 | Objective | Description |
 |------------|--------------|
-| 🧮 Quantitative Thinking | Build strong foundations in arithmetic, algebra, and geometry. |
-| 🧠 Analytical Reasoning | Strengthen logic for business and data-based problem solving. |
-| 💬 Communication Skills | Improve verbal clarity and comprehension. |
-| ⏱️ Time Management | Develop efficiency under exam-like pressure. |
-| 🎯 Career Readiness | Prepare for aptitude-heavy exams, finance roles, and data interviews. |
+| 🧮 Quantitative Thinking | Build strong foundations in arithmetic, algebra & geometry. |
+| 🧠 Analytical Reasoning | Strengthen logical decision-making for business & data problems. |
+| 💬 Communication Skills | Improve verbal clarity & comprehension. |
+| ⏱️ Time Management | Boost accuracy under timed pressure. |
+| 🎯 Career Readiness | Prepare for aptitude tests, consulting, data & finance roles. |
 
 ---
 
@@ -168,34 +190,46 @@ By the end, learners will be **exam-ready, confident, and capable of analytical 
 
 ## 🧮 **Tools & Techniques**
 
-- 🧾 **GeeksforGeeks Aptitude Portal**
-- ⏰ **Time-bound quizzes**
-- 🧠 **Critical Thinking Exercises**
-- 📊 **Mock Analysis Dashboards**
-- 💬 **Concept Reflection Notes**
+- 🧾 **GeeksforGeeks Aptitude Portal**  
+- ⏰ **Time-bound quizzes & trackers**  
+- 🧠 **Critical Thinking Drills**  
+- 📊 **Performance Dashboards**  
+- 💬 **Reflection Notes & Concept Summaries**  
 
 ---
 
 ## 💡 **Personal Reflections**
 
-> “Aptitude is not just about numbers — it’s about the ability to reason, connect, and decide logically under pressure.”  
+> “Aptitude is not just about numbers — it’s about reasoning, structure, and calm clarity under pressure.”  
 > — *Uwabor Collins*
 
 ---
 
 ## 🔗 **References**
 
-- [GeeksforGeeks Aptitude & Reasoning Course](https://www.geeksforgeeks.org/)  
-- [Quantitative Aptitude by R.S. Aggarwal](https://www.amazon.in/dp/9352832167)  
-- [Logical Reasoning Practice on GFG](https://www.geeksforgeeks.org/reasoning/)  
+- [📗 GeeksforGeeks Aptitude & Reasoning Course](https://www.geeksforgeeks.org/)  
+- [📘 Quantitative Aptitude by R.S. Aggarwal](https://www.amazon.in/dp/9352832167)  
+- [📙 Logical Reasoning Practice on GeeksforGeeks](https://www.geeksforgeeks.org/reasoning/)  
 
 ---
 
 <div align="center">
 
-### 🌟 *Documented with passion for growth and precision by [Uwabor Collins](https://github.com/yourusername)*  
-**Quant & Operations Lead | Community Builder | Lifelong Learner**
+<h3>🌟 Documented with passion & precision by <a href="https://github.com/Dev0psKing">Uwabor Collins</a></h3>  
+<b>Quant & Operations Lead | Community Builder | Lifelong Learner</b>
+
+<br><br>
+
+<a href="https://github.com/Dev0psKing/aptitude-prep-journey">
+  <img src="https://img.shields.io/badge/View%20Repository-%23007CF0.svg?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+</a>
 
 </div>
 
 ---
+
+<div align="center">
+  
+⭐ **If you find this repo useful, don’t forget to star it!** ⭐  
+
+</div>
