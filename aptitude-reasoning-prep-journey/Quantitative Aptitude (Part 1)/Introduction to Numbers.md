@@ -1,6 +1,6 @@
 # 🧭 Introduction to Aptitude & Reasoning
 
-Welcome to the **Introduction to Aptitude & Reasoning** — the foundation of every analytical, logical, and problem-solving journey.  
+Welcome to the **Introduction to Aptitude & Reasoning** - the foundation of every analytical, logical, and problem-solving journey.  
 This section helps you understand what aptitude and reasoning truly mean, how they differ, and why mastering them is essential for competitive and professional success.
 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/8f80e8d1-e9ee-4827-8049-21b9f4da2f99" />
