@@ -33,6 +33,8 @@ This topic introduces:
 | **Prime Numbers** | Numbers with exactly two factors (1 and itself) | 2, 3, 5, 7, 11… |
 | **Composite Numbers** | Numbers greater than 1 that are **not prime** | 4, 6, 8, 9, 10… |
 
+<img width="1042" height="745" alt="image" src="https://github.com/user-attachments/assets/d3bfcbe7-5d0b-4aa2-9253-911570cb608a" />
+
 ---
 
 ## 🧠 Important Notes on Prime Numbers
