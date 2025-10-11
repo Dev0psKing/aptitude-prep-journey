@@ -145,7 +145,7 @@ Cyclicity determines the **repetition pattern of unit digits** when a number is 
 ---
 
 ## 🧭 Navigation
-← [Back to Quantitative Aptitude Overview](https://github.com/Dev0psKing/aptitude-prep-journey/tree/master/Quantitative%20AptitudeTo%20check%20if%20a%20number%20'p'%20is%20prime,%20find%20a%20number%20'n'%20such%20that%20'n'%20is%20the%20smallest%20natural%20number%20that%20satisfies%20n2%20%3E=%20p.%20Now,%20check%20if%20'p'%20is%20divisible%20by%20any%20of%20the%20prime%20numbers%20less%20than%20or%20equal%20to%20'n'.%20If%20'p'%20is%20NOT%20divisible%20by%20any%20such%20prime%20numbers,%20'p'%20is%20a%20prime%20number.%20Otherwise,%20p%20is%20not%20a%20prime%20number.%20Co-primes%20:%20Two%20numbers%20'a'%20and%20'b'%20are%20called%20co-prime%20if%20their%20highest%20common%20factor%20(HCF)%20is%201.%20We%20can%20find%20the%20count%20of%20divisors%20of%20a%20number%20using%20prime%20factorization.%20If%20prime%20factorization%20of%20a%20number%20n%20is%20p1e1%20x%20p2e2%20x%20p3e3%20...%20pkek.%20then%20the%20number%20of%20divisors%20of%20n%20are%20(e1%20+%201)%20x%20(e2%20+%201)%20x%20(e3%20+%201)%20x%20....%20(ek%20+%201).%20For%20example,%20200%20can%20be%20written%20as%202352.%20The%20number%20of%20divisors%20of%20200%20is%20(3%20+%201)%20x%20(2%20+%201)%20=%2012.)  
+← [Back to Quantitative Aptitude Overview](https://github.com/Dev0psKing/aptitude-prep-journey/tree/master/Quantitative%20Aptitude/Part%201)  
 ↑ [Return to Main Repository](https://github.com/Dev0psKing/aptitude-prep-journey)
 
 ---
