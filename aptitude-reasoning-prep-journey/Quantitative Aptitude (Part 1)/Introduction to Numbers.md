@@ -34,7 +34,7 @@ Together, they form the foundation of your analytical and problem-solving mindse
 **Quantitative aptitude** tests your ability to use **numbers, logic, and data** to solve real-world problems.
 
 - **What it tests:** Numerical accuracy, calculation speed, and data interpretation  
-- **Why it matters:** ~60% of aptitude exams (like IBPS, SBI PO, CAT) rely heavily on this section  
+- **Why it matters:** ~60% of aptitude exams (like IBPS, SBI PO, CAT, SAT, GMAT etc) rely heavily on this section  
 - **Pro Tip:** Learn *elimination and approximation tricks* for faster results  
 
 > 💡 **Quick Challenge:**  
