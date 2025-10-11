@@ -85,11 +85,11 @@ These skills build:
 
 Before diving in, ensure you’re comfortable with:
 
-| Skill | Description |
-|-------|--------------|
-| 🧮 **Basic Math** | Class 10-level math — percentages, ratios, and averages |
-| 🧩 **Puzzle Curiosity** | Ability to notice simple number or pattern sequences |
-| 🗣️ **Word Awareness** | Understanding basic English sentences and meanings |
+| Skill | Description                                             |
+|-------|---------------------------------------------------------|
+| 🧮 **Basic Math** | Class 10-level math - percentages, ratios, and averages |
+| 🧩 **Puzzle Curiosity** | Ability to notice simple number or pattern sequences    |
+| 🗣️ **Word Awareness** | Understanding basic English sentences and meanings      |
 
 > 📝 *Note:* Gaps in these foundations are normal — this course helps you close them through targeted, structured practice.
 
