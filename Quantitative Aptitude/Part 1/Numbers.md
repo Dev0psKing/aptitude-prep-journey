@@ -57,18 +57,16 @@ Example: (8, 15) are co-prime, but (8, 12) are not.
 ---
 
 ### 🔍 Finding the Number of Divisors
+
 If  
-\[
-n = p_1^{e_1} × p_2^{e_2} × p_3^{e_3} × \dots × p_k^{e_k}
-\]  
-then,  
-\[
-\text{Total divisors of } n = (e_1 + 1)(e_2 + 1)(e_3 + 1)...(e_k + 1)
-\]
+`n = p₁^e₁ × p₂^e₂ × p₃^e₃ × ... × pₖ^eₖ`  
+
+Then,  
+**Total divisors of n =** `(e₁ + 1)(e₂ + 1)(e₃ + 1)...(eₖ + 1)`
 
 **Example:**  
-200 = 2³ × 5²  
-→ Number of divisors = (3 + 1)(2 + 1) = **12**
+200 = `2³ × 5²`  
+→ Number of divisors = `(3 + 1)(2 + 1) = 12`
 
 ---
 
