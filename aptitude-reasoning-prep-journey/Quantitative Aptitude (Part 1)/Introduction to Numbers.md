@@ -91,7 +91,7 @@ Before diving in, ensure you’re comfortable with:
 | 🧩 **Puzzle Curiosity** | Ability to notice simple number or pattern sequences    |
 | 🗣️ **Word Awareness** | Understanding basic English sentences and meanings      |
 
-> 📝 *Note:* Gaps in these foundations are normal - this course helps you close them through targeted, structured practice.
+> 📝 *Note:* Gaps in these foundations are normal - this repo helps you close them through targeted, structured practice.
 
 ---
 
