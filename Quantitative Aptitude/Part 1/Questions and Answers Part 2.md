@@ -7,7 +7,7 @@ This section covers **basic arithmetic simplifications and reasoning exercises**
 ## 🧮 Example 1: Simplify
 
 **(i)** 8888 + 888 + 88 + 8  
-**(ii)** 715632 – 631104 – 9874 – 999  
+**(ii)** 715632 - 631104 – 9874 – 999  
 
 **✅ Solution:**
 
