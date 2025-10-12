@@ -30,8 +30,8 @@ This section covers **basic arithmetic simplifications and reasoning exercises**
   ? = 1635773 + 1936248 = **3572021**  
 
 - (ii)  
-  9587 – ? = 3071  
-  → ? = 9587 – 3071 = **6516**
+  9587 - ? = 3071  
+  → ? = 9587 - 3071 = **6516**
 
 ---
 
@@ -43,7 +43,7 @@ Given:
 **✅ Solution:**  
 Add all digits column-wise:  
 2 + P + R + Q = 11  
-→ Maximum Q = 11 – 2 = **9** (when P = 0, R = 0)
+→ Maximum Q = 11 - 2 = **9** (when P = 0, R = 0)
 
 ---
 
