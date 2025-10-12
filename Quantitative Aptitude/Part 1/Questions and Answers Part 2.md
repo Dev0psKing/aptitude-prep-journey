@@ -21,8 +21,8 @@ This section covers **basic arithmetic simplifications and reasoning exercises**
 
 ## 🧮 Example 2: Find the value of (?)
 
-**(i)** ? – 1936248 = 1635773  
-**(ii)** 9587 – ? = 7429 – 4358  
+**(i)** ? - 1936248 = 1635773  
+**(ii)** 9587 - ? = 7429 – 4358  
 
 **✅ Solution:**
 
