@@ -13,8 +13,8 @@ This section covers **basic arithmetic simplifications and reasoning exercises**
 
 - (i) 8888 + 888 + 88 + 8 = **9872**  
 - (ii)  
-  715632 – (631104 + 9874 + 999)  
-  = 715632 – 641977  
+  715632 - (631104 + 9874 + 999)  
+  = 715632 - 641977  
   = **73655**
 
 ---
