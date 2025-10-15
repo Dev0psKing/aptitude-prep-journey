@@ -1,4 +1,4 @@
-# 🔢 Numbers — Solved Questions and Answers
+# 🔢 Numbers - Solved Questions and Answers
 
 > “Numbers are the foundation of all reasoning — master them, and logic follows naturally.”
 
