@@ -62,9 +62,6 @@ C 6 7
 
 1 0 3 5
 
-yaml
-Copy code
-
 **Solution:**
 From the hundreds column:  
 B + C = 8 or 18  
