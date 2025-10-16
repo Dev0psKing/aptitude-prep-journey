@@ -3,9 +3,9 @@
 
 # 🔢 Numbers - Solved Questions and Answers (Expanded Explanations)
 
-> “Numbers are the foundation of all reasoning — master them, and logic follows naturally.”
+> “Numbers are the foundation of all reasoning - master them, and logic follows naturally.”
 
-This section presents **practice questions with fully worked solutions** and **extra-detailed explanations** to strengthen your grasp of number theory, divisibility, and remainders — core areas in **quantitative aptitude** and **competitive reasoning tests**. We'll break down each step so it's easy to follow!
+This section presents **practice questions with fully worked solutions** and **extra-detailed explanations** to strengthen your grasp of number theory, divisibility, and remainders - core areas in **quantitative aptitude** and **competitive reasoning tests**. We'll break down each step so it's easy to follow!
 
 ---
 
