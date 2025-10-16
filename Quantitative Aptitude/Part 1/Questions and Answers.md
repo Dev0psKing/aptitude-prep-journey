@@ -42,18 +42,11 @@ How many four-digit numbers are divisible by 7?
 - Largest 4-digit number = 9999  
   ⇒ 9999 ÷ 7 ≈ 1428.428 → 1428 × 7 = 9996  
 
-Arithmetic sequence:  
-a₁ = 1001, aₙ = 9996, d = 7  
+**Arithmetic sequence:**  
+a<sub>1</sub> = 1001, a<sub>n</sub> = 9996, d = 7  
 
-\[
-aₙ = a₁ + (n − 1)d
-\]
-
-\[
-9996 = 1001 + (n−1)7
-\Rightarrow n = 1286
-\]
-
+**Formula:** a<sub>n</sub> = a<sub>1</sub> + (n − 1)d  
+9996 = 1001 + (n − 1)7 → n = 1286
 ✅ **Answer:** 1286 four-digit numbers divisible by 7
 
 ---
