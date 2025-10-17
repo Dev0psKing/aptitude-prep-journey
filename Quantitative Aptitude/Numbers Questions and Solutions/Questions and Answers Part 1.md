@@ -647,7 +647,7 @@ This question asks for the remainder, not just the unit digit. However, for divi
 
 ## 🧭 Next Step
 Now that you've mastered these number theory basics with detailed explanations, you're ready to dive deeper!
-➡️ [LCM & HCF](../LCM_HCF/README.md)
+➡️ [Next](https://github.com/Dev0psKing/aptitude-prep-journey/blob/master/Quantitative%20Aptitude/Numbers%20Questions%20and%20Solutions/Questions%20and%20Answers%20Part%202.md)
 
 ---
 
