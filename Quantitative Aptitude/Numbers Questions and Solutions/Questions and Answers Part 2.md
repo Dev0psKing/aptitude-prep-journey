@@ -728,7 +728,7 @@ Let's try to match the given expression `4a² + b² + c² + 4ab – 2bc – 4ac`
 - **Step 4: Find the square root.**
   - `√(2a + b - c)² = 2a + b - c`
 
-✅ **Answer:** The square root is **2a + b – c**.
+✅ **Answer:** The square root is **2a + b - c**.
 `
 
 ### **🧮 Example 10: Word Problem**
