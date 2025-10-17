@@ -83,7 +83,7 @@ These are straightforward addition and subtraction problems. For (i), it's just 
       9872
     ```
 
-**(ii) 715632 - 631104 – 9874 – 999**
+**(ii) 715632 - 631104 - 9874 - 999**
 
 1.  **Group the Subtractions:** When you have a number minus several other numbers, it's like taking away multiple amounts. You can add up all the amounts you're taking away first, and then subtract that total from the original number.
     *   `715632 - (631104 + 9874 + 999)`
@@ -135,7 +135,7 @@ These are straightforward addition and subtraction problems. For (i), it's just 
   `8888 + 888 + 88 + 8 = 9872`
 
 - **(ii)**
-  `715632 - 631104 – 9874 – 999`
+  `715632 - 631104 - 9874 - 999`
   - First, add all the numbers being subtracted:
     `631104 + 9874 + 999 = 641977`
   - Now, perform the final subtraction:
@@ -178,7 +178,7 @@ These are simple algebra problems where we need to isolate the unknown variable,
 
 **(ii) 9587 - ? = 7429 – 4358**
 
-1.  **Simplify the Right Side First:** Before dealing with `?`, let's calculate the value of `7429 – 4358`.
+1.  **Simplify the Right Side First:** Before dealing with `?`, let's calculate the value of `7429 - 4358`.
     *   `7429 - 4358`
     *   Subtract vertically:
         ```
