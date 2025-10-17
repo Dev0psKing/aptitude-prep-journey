@@ -104,7 +104,7 @@ Before diving in, ensure you’re comfortable with:
 ---
 
 ## 🧭 Navigation
-← [Back to Main Repository](https://github.com/Dev0psKing/aptitude-prep-journey)
+← [Next](https://github.com/Dev0psKing/aptitude-prep-journey/blob/master/Quantitative%20Aptitude/Numbers%20Tutorials/Numbers.md)
 
 ---
 
