@@ -664,9 +664,9 @@ These are direct applications of the perfect square algebraic identities:
   - `= 500²`
   - `= 250000`
 
-- **(ii)** `(87 × 87 + 61 × 61 – 2 × 87 × 61)`
-  - This is in the form `a² + b² – 2ab`.
-  - Using the identity `a² + b² – 2ab = (a – b)²`
+- **(ii)** `(87 × 87 + 61 × 61 - 2 × 87 × 61)`
+  - This is in the form `a² + b² - 2ab`.
+  - Using the identity `a² + b² - 2ab = (a - b)²`
   - Let `a = 87` and `b = 61`.
   - `(87 – 61)²`
   - `= 26²`
