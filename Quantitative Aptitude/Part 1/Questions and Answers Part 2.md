@@ -815,6 +815,6 @@ This is a simple sequence comparison problem. We need to list out the numbers ea
 ---
 
 ### 🧭 Next  
-➡️ [Number Systems →](../number-systems/README.md)
+➡️ [Number Systems →](https://github.com/Dev0psKing/aptitude-prep-journey/tree/master/Quantitative%20Aptitude/Part%201)
 
 > 💡 *Tip: Keep practicing similar arithmetic and reasoning problems daily. The more you apply these tricks and identities, the faster and more confident you'll become!*
