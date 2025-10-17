@@ -677,7 +677,7 @@ These are direct applications of the perfect square algebraic identities:
 
 ### **🧮 Example 9: Find the square root**
 
-Find √(4a² + b² + c² + 4ab – 2bc – 4ac)
+Find √(4a² + b² + c² + 4ab - 2bc - 4ac)
 
 **Explanation Breakdown:**
 
