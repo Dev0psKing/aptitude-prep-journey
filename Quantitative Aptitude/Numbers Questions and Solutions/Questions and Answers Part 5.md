@@ -360,3 +360,10 @@ This problem looks terrifying because of the huge number, but it's actually a si
 ---
 
 #### ✅ **Final Answer:** **The remainder is 3**
+
+---
+
+**Author:** [Uwabor Collins](https://github.com/Dev0psKing)  
+**Repository:** [Aptitude Prep Journey](https://github.com/Dev0psKing/aptitude-prep-journey)  
+
+*Keep practicing! Every problem solved makes you stronger. 💪*
