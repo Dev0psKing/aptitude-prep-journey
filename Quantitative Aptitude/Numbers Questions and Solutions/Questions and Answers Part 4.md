@@ -702,3 +702,9 @@ In any factorial, the prime factor `2` appears much more frequently than `5` (ev
 
 #### ✅ **Final Answer:** **24**
 `
+---
+
+**Author:** [Uwabor Collins](https://github.com/Dev0psKing)  
+**Repository:** [Aptitude Prep Journey](https://github.com/Dev0psKing/aptitude-prep-journey)  
+
+*Keep practicing! Every problem solved makes you stronger. 💪*
