@@ -3,6 +3,7 @@
 Welcome to **Quantitative Aptitude (Part 1)** — the foundation of your aptitude and reasoning journey!  
 This section focuses on mastering the fundamental mathematical concepts used in competitive exams, analytics, and logical reasoning.
 
+
 ---
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Dev0psKing/aptitude-prep-journey?color=blue&label=Repo%20Size&style=flat-square)
